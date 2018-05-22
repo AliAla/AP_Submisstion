@@ -55,6 +55,7 @@ public class GUI {
 			public void actionPerformed(ActionEvent arg0) {
 				p.listEveryone();
 			}
+		}
 		});
 		ShowEveryone.setBounds(15, 126, 138, 25);
 		MenuPanel.add(ShowEveryone);
